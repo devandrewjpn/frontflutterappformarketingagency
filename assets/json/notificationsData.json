@@ -1,0 +1,28 @@
+{
+    "notifications": [
+      {
+        "id": 1,
+        "title" : "Novo post aguardando..",
+        "description": "O designer adicionou um novo post à lista para ser avaliado, clique para avaliá-lo.",
+        "created_at": "31/05/22"
+      },
+      {
+        "id": 2,
+        "title" : "Novo post aguardando..",
+        "description": "O designer adicionou um novo post à lista para ser avaliado, clique para avaliá-lo.",
+        "created_at": "29/05/22"
+      },
+      {
+        "id": 3,
+        "title" : "Projeto finalizado",
+        "description": "O projeto 'nome do projeto' foi dado como finalizado. Clique para ver-lo.",
+        "created_at": "07/06/22"
+      },
+      {
+        "id": 4,
+        "title" : "Um item foi revisado..",
+        "description": "O designer revisou e reenviou um item, clique para visualizá-lo.",
+        "created_at": "02/06/22"
+      }
+    ]
+  }
